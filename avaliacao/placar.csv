@@ -1,0 +1,4 @@
+config,acuracia_%,alucinacao_%,json_valido_%,recusa_correta_%,recusa_indevida_%,cita_fonte_certa_%,tempo_medio_s
+A_sem_contexto,0.0,68.4,55.3,0.0,3.6,3.6,2.2
+B_rag_simples,52.6,31.6,89.5,100.0,7.1,71.4,2.2
+C_rag_lora,52.6,39.5,97.4,100.0,7.1,75.0,3.9
