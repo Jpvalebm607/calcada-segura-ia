@@ -1,0 +1,10 @@
+# Colab já traz torch e transformers; estes são os extras
+peft>=0.11
+accelerate>=0.30
+sentence-transformers>=2.7
+pypdf>=4.0
+beautifulsoup4>=4.12
+pydantic>=2.0
+requests
+pandas
+matplotlib
