@@ -134,4 +134,4 @@ api/           API FastAPI do assistente
 ## Links
 
 - Repositório: https://github.com/Jpvalebm607/calcada-segura-ia
-- Vídeo: (preencher)
+- Vídeo: https://youtu.be/JIy13KYJQ6w
